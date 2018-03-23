@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>An internationalization module (i18n) for eXist</description>
+    <author>Lars Windauer</author>
+    <author>Tobias Krebs</author>
+    <author>Wolfgang Meier</author>
+    <website/>
+    <status>stable</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>library</type>
+    <prepare/>
+    <finish/>
+</meta>

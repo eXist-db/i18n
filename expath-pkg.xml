@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://expath.org/ns/pkg" name="http://exist-db.org/xquery/i18n" abbrev="i18n" version="1.0.0" spec="1.0">
+    <title>Internationalization Library for eXist</title>
+    <xquery>
+        <namespace>http://exist-db.org/xquery/i18n/templates</namespace>
+        <file>i18n-templates.xql</file>
+    </xquery>
+    <xquery>
+        <namespace>http://exist-db.org/xquery/i18n</namespace>
+        <file>i18n.xql</file>
+    </xquery>
+</package>
